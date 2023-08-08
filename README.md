@@ -1,3 +1,3 @@
 # image-classifier
 
-Describe your project here.
+https://huggingface.co/blog/fine-tune-vit

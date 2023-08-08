@@ -5,7 +5,13 @@ description = "Add a short description here"
 authors = [
     { name = "katryo", email = "katoryo55@gmail.com" }
 ]
-dependencies = []
+dependencies = [
+    "datasets~=2.14.3",
+    "transformers~=4.31.0",
+    "pillow~=10.0.0",
+    "torch~=2.0.1",
+    "numpy~=1.24.4",
+]
 readme = "README.md"
 requires-python = ">= 3.8"
 
